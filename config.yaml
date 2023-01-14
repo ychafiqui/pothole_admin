@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    youssef:
+      email: ychafiqui2@gmail.com
+      name: Youssef Chafiqui
+      password: '$2b$12$Y6bSqzaLXou0./7jRPgm2eIbDNgr7UU62nbAxKTSGtoYEl4ih8nHi'
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - test@gmail.com
