@@ -3,7 +3,7 @@ credentials:
     youssef:
       email: ychafiqui2@gmail.com
       name: Youssef Chafiqui
-      password: '$2b$12$Y6bSqzaLXou0./7jRPgm2eIbDNgr7UU62nbAxKTSGtoYEl4ih8nHi'
+      password: '$2b$12$8gMFcqMbANmz13zJ.OJzp.LBuQVzFtR8b3Kr.p5kruSIB55TMBICO'
 cookie:
   expiry_days: 30
   key: random_signature_key
